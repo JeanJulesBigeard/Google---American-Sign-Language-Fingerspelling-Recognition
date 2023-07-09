@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints/
+train_landmark_subsets/
+asl-fingerspelling/
